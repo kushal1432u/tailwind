@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Margin Mastery</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="p-8">
+    <!-- Card 1 -->
+    <div class="">
+        <h2 class="">Card 1: Introduction</h2>
+        <p class="">This is the first card in the list. Apply margins to space these cards evenly.</p>
+        <button class="">Explore More</button>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="">
+        <h2 class="">Card 2: Learning Tailwind</h2>
+        <p class="">This is the second card in the list. Keep it evenly spaced with margins.</p>
+        <button class="">Learn More</button>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="">
+        <h2 class="">Card 3: Next Steps</h2>
+        <p class="">This is the third card in the list. Maintain even spacing between all cards.</p>
+        <button class="">Get Started</button>
+    </div>
+</body>
+</html>
